@@ -29,7 +29,7 @@ This repository contains the code for a custom controller designed for the game 
    </div>
    
 ## <p align="center">Controllers showcase:</p>
-Below the interaction between the controllers and their hardware can be seen
+Below the interaction between the controllers and their hardware can be seen:
 <div align="center">
 <img src="https://github.com/Stadsholt/Overcooked-2-Motion-Controller/blob/main/Images/Info.jpg" width="500">
 </div>
