@@ -12,21 +12,21 @@ This repository contains the code for a custom controller designed for the game 
 1. **Knife with Buttons:**
    - Equipped with buttons for user interaction.
    - Enables unique actions triggered by doing a chopping motion with the knife.
-     
+    <br> 
    <div align="center">
      <img src="https://github.com/Stadsholt/Overcooked-2-Motion-Controller/blob/main/Images/knife.gif" width="500">
    </div>
 2. **Plate Controller:**
    - Responsible for character movement and control within the game.
    - Utilises an accelerometer to track the tilt of the plate, adding an immersive dimension to the gameplay.
-     
+   <br>  
    <div align="center">
      <img src="https://github.com/Stadsholt/Overcooked-2-Motion-Controller/blob/main/Images/plate.gif" width="500">
    </div>
 3. **Receiver:**
    - Serves as a central hub that receives information from both the knife and plate controllers.
    - Enables Bluetooth communication between the controller components and the gaming system.
-     
+   <br>  
    <div align="center">
      <img src="https://github.com/Stadsholt/Overcooked-2-Motion-Controller/blob/main/Images/Sugar.jpg" width="500">
    </div>
