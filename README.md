@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <p align="center">Overcooked! 2 Controller</p>
 
 This project readme was written by fellow group member eske4, where I provided the images and videos.
@@ -53,3 +54,6 @@ Below the interaction with the controllers and their hardware can be seen
 - **[xInput Library](https://github.com/dmadison/ArduinoXInput):** Employed to emulate an Xbox controller, ensuring compatibility with the game "Overcooked! 2".
 
 Feel free to explore the codebase to gain insights into the intricacies of each component and their interactions.
+=======
+# Overcooked-2-Controller
+>>>>>>> ea9f6ec6c13a166c1b50ddd4436ee32f3d823692
