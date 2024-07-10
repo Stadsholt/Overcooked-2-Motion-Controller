@@ -4,7 +4,7 @@ This project readme was written by fellow group member eske4, where I provided t
 
 This repository contains the code for a custom controller designed for the game "Overcooked! 2". The controller is split into three distinct parts, each serving a specific function:
 <div align="center">
-<img src="https://github.com/Stadsholt/OvercookedController/blob/main/Images/AllComponents.jpg" width="600">
+<img src="https://github.com/Stadsholt/Overcooked-2-Motion-Controller/blob/main/Images/AllComponents.jpg" width="600">
 </div>
 
 ## <p align="center">Parts:</p>
